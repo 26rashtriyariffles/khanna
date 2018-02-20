@@ -6,5 +6,6 @@ Class Car
   
     System.out.println("Hi!! you got new Car...");
     System.out.println("Thank you !! for chossing our brand");
+    System.out.println("Maruti Welcome our Customers !! ");
   }
 }
